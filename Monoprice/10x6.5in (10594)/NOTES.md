@@ -2,7 +2,7 @@
 
 A relatively cheap tablet
 
-[Amazon Link](https://www.amazon.com/Monoprice-6-25-inch-Graphic-Drawing-Tablet/dp/B00H4LAF9O/ref=sr_1_1?dchild=1&keywords=monoprice+10594&qid=1625428444&sr=8-1)
+[Amazon Link](https://www.amazon.com/Monoprice-6-25-inch-Graphic-Drawing-Tablet/dp/B00H4LAF9O)
 
 The drivers for Windows appear to be simplistic and possibly outdated or unmaintained. But you're probably here for Linux info
 
